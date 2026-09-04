@@ -44,22 +44,22 @@ For restaurant operations, the system includes a dedicated **Staff Dashboard** t
 
 ## 🔄 User Flow
 
-[ 📲 Scan Table QR Code ]
+<p>[ 📲 Scan Table QR Code ]</p>
 │
 ▼
-[ 📋 Browse Digital Menu ]
+<p>[ 📋 Browse Digital Menu ]</p>
 │
 ▼
-[ 🛒 Select Items & Add Notes ]
+<p>[ 🛒 Select Items & Add Notes ]</p>
 │
 ▼
-[ 📝 Place Order (Pay at Cashier) ]
+<p>[ 📝 Place Order (Pay at Cashier) ]</p>
 │
 ▼
-[ 🔔 Staff Dashboard Receives Live Order ]
+<p>[ 🔔 Staff Dashboard Receives Live Order ]</p>
 │
 ▼
-[ 🍳 Staff Updates Status: Preparing ➔ Delivered ]
+<p>[ 🍳 Staff Updates Status: Preparing ➔ Delivered ]</p>
 
 
 ---
