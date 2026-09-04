@@ -182,7 +182,6 @@ I specialize in modern web development, software engineering, and building usefu
 | Channel | Link |
 | :--- | :--- |
 | **GitHub** | [@Sedrat-Abdelmoumene](https://github.com/Sedrat-Abdelmoumene) |
-| **Instagram** | [@abdelmomen_sedrat](https://instagram.com/abdelmomen_sedrat) |
 | **Email** | [abdelmoumenesedrat@gmail.com](mailto:abdelmoumenesedrat@gmail.com) |
 | **WhatsApp** | [+213 794 868 404](https://wa.me/213794868404) |
 
