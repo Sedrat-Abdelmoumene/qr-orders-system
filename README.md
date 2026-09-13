@@ -66,7 +66,6 @@ For restaurant operations, the system includes a dedicated **Staff Dashboard** t
 
 ## 📸 Screenshots
 
-> **Note:** To ensure images render properly, upload your screenshot files to your repo's `screenshots/` folder or drag and drop them directly into the GitHub web editor.
 
 ### 1. Table QR Code Generator
 Staff can specify the number of tables and auto-detect server address to generate and download individual or batch printable QR codes.
